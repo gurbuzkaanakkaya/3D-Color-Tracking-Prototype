@@ -127,7 +127,7 @@ while True:
             #contour
             cv2.drawContours(imgOriginal, [box], 0,(0,255,255),2)
             
-            #centercricle
+            #center cricle
             cv2.circle(imgOriginal, center , 5 , (255,0,255),-1)
                         
             #putText
