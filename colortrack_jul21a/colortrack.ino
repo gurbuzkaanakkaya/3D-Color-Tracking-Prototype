@@ -1,7 +1,7 @@
 #include <Servo.h>
 #define MotorR1 8
 #define MotorR2 9
-#define MotorRE 5  // Motor pinlerini tanımlıyoruz.
+#define MotorRE 5 
 #define MotorL1 10
 #define MotorL2 11
 #define MotorLE 6
